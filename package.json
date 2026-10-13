@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "gm": "^1.23.0",
-    "jsonwebtoken": "^8.0.0",
+    "jsonwebtoken": "^9.0.3",
     "kcors": "^2.2.1",
     "lodash": "^4.17.4",
     "md5": "^2.2.1",
@@ -24,12 +24,12 @@
     "think-model-mysql": "^1.0.0",
     "thinkjs": "^3.0.0",
     "weixinpay": "^1.0.12",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-think-node": "^1.0.0",
-    "node-notifier": "^5.0.2",
+    "node-notifier": "^11.0.0",
     "think-watcher": "^3.0.0",
     "think-inspect": "0.0.2",
     "think-babel": "^1.0.3",
